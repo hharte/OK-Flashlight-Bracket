@@ -89,8 +89,22 @@ Use the included STL mesh files (14mm or 18mm) to print the bracket using a 3D p
 Use two small zip ties to secure the flashlight to the top of the bracket.
 
 
+# Photos
+
+![Photo of the assembled bracket and Archer Pro v2 flashlight on a KS-16363L2 Speed-Wrap tool.](https://raw.githubusercontent.com/hharte/OK-Flashlight-Bracket/main/images/KS-16363L2.jpg "image_tooltip")
+
+
+## Assembled bracket and Archer Pro v2 flashlight on a KS-16363L2 Speed-Wrap tool.
+
+![Photo of the assembled bracket and Archer Mini flashlight on a KS-16363L3 Speed-Wrap tool.](https://raw.githubusercontent.com/hharte/OK-Flashlight-Bracket/main/images/KS-16363L3.jpg "image_tooltip")
+
+
+## Assembled bracket and Archer Mini flashlight on a KS-16363L3 Speed-Wrap tool.
+
+
 # References
 
 [Manual Wire Wrapping Tools User’s Guide](https://jonard.com/sites/default/files/product_files/Manual%20Wire%20Wrapping%20Tools%20Users%20Guide%20%284%29.pdf)
 
 [Jonard Wire Wrap Tool Page](https://jonard.com/manual-wire-wrap-and-unwrap-guns-0)
+
